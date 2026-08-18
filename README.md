@@ -9,7 +9,7 @@ Cada pasta contém um projeto desenvolvido durante uma sessão, junto com os arq
 ### 01 — Landing Page 24H STUDIO
 
 **Descrição:**
-Landing page de apresentação de um template de portfólio no Figma, com botão de download gratuito ("De graça!") e uma barra de logos.
+Landing page de apresentação de um template de portfólio no Figma, com botões e uma barra de logos.
 
 **O que fizemos:**
 - Estrutura inicial de uma landing page com header e seção hero
