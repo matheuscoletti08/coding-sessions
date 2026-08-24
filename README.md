@@ -24,6 +24,7 @@ Landing page de apresentação de um template de portfólio no Figma, com botõe
 **Links:**
 - [📁 Código](https://github.com/matheuscoletti08/coding-sessions/tree/main/coding-session-01)
 - [🎨 Figma](https://www.figma.com/site/Opw9u2xvHphZqrvSwCSSQm/Simple-Portfolio--Figma-Sites---Community-?node-id=0-1&t=Ot0p1Nk8e38EYNty-1)
+- [🌐 Site](https://matheuscoletti08.github.io/coding-sessions/coding-session-01/index.html)
 
 ---
 
@@ -44,6 +45,7 @@ Para explicar <tables> e como funciona as tabelas no HTML
 **Links:**
 - [📁 Código](https://github.com/matheuscoletti08/coding-sessions/tree/main/coding-sessions-02/excel-example)
 - [📊 Google Sheets](https://docs.google.com/spreadsheets/d/1LrGH-KHPuz2ADlKuKQFkOHovnbnR00q2pYorQRN-OSk/edit?usp=sharing)
+- [🌐 Site](https://matheuscoletti08.github.io/coding-sessions/coding-sessions-02/excel-example/index.html)
 
 ### 02.2 — Form to .txt
 
@@ -62,7 +64,7 @@ Para explicar as tags que compõe um formulario e fazer uma graça com JavaScrip
 
 **Links:**
 - [📁 Código](https://github.com/matheuscoletti08/coding-sessions/tree/main/coding-sessions-02/forms-example)
-
+- [🌐 Site](https://matheuscoletti08.github.io/coding-sessions/coding-sessions-02/forms-example/index.html)
 ---
 ## Sobre
 
