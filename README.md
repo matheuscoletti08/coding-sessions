@@ -27,6 +27,25 @@ Landing page de apresentação de um template de portfólio no Figma, com botõe
 
 ---
 
+### 02.1 — Excel Example
+
+**Descrição:**
+Para explicar <tables> e como funciona as tabelas no HTML
+
+**O que fizemos (Excel Example):**
+- Aprendemos sobre Table, th (Tabel Header), td (Table Data), tr (Table Row)
+- Fez a estilização desses elementos
+- Fez a centralização absoluta desta tabela
+
+**Tecnologias:**
+- HTML
+- CSS
+
+**Links:**
+- [📁 Código](https://github.com/matheuscoletti08/coding-sessions/tree/main/coding-session-02/excel-example)
+- [📊 Google Sheets](https://docs.google.com/spreadsheets/d/1LrGH-KHPuz2ADlKuKQFkOHovnbnR00q2pYorQRN-OSk/edit?usp=sharing)
+
+---
 ## Sobre
 
 Estas são sessões práticas de programação realizadas com amigos do **PROA**, com foco em aprender através da criação de projetos.
