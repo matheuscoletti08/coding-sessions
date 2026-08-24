@@ -45,6 +45,24 @@ Para explicar <tables> e como funciona as tabelas no HTML
 - [📁 Código](https://github.com/matheuscoletti08/coding-sessions/tree/main/coding-sessions-02/excel-example)
 - [📊 Google Sheets](https://docs.google.com/spreadsheets/d/1LrGH-KHPuz2ADlKuKQFkOHovnbnR00q2pYorQRN-OSk/edit?usp=sharing)
 
+### 02.2 — Form to .txt
+
+**Descrição:**
+Para explicar as tags que compõe um formulario e fazer uma graça com JavaScript, aleḿ de mostrar como funciona os forms no HTML e seus methods (GET, POST)
+
+**O que fizemos (Excel Example):**
+- Aprendemos sobre Form, label e input
+- Fizemos a estilização desses elementos
+- Brincamos com o JS para fazer com que os dados enviados fossem para um .txt formatado
+
+**Tecnologias:**
+- HTML
+- CSS
+- JS
+
+**Links:**
+- [📁 Código](https://github.com/matheuscoletti08/coding-sessions/tree/main/coding-sessions-02/forms-example)
+
 ---
 ## Sobre
 
