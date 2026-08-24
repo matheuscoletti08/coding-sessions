@@ -42,7 +42,7 @@ Para explicar <tables> e como funciona as tabelas no HTML
 - CSS
 
 **Links:**
-- [📁 Código](https://github.com/matheuscoletti08/coding-sessions/tree/main/coding-session-02/excel-example)
+- [📁 Código](https://github.com/matheuscoletti08/coding-sessions/tree/main/coding-sessions-02/excel-example)
 - [📊 Google Sheets](https://docs.google.com/spreadsheets/d/1LrGH-KHPuz2ADlKuKQFkOHovnbnR00q2pYorQRN-OSk/edit?usp=sharing)
 
 ---
